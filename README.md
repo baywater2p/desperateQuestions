@@ -1,5 +1,5 @@
 # desperateQuestions
-despeate questions for desperate people
+desperate questions for desperate people
 
 ## The List
 is it OK to steal a piece of fruit in the city?
